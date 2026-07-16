@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="profile_banner.png" alt="Vaishnavi Dubey Banner" width="100%">
   <br>
   <h1>Hi 👋, I'm Vaishnavi Dubey</h1>
   <p><strong>Software Engineer & AI Developer — Building intelligent systems that solve real-world problems</strong></p>
